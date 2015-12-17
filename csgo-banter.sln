@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csgo-banter", "csgo-banter\csgo-banter.csproj", "{631768BA-75ED-4908-9A26-EE491E59BD75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSGOGameObserverSDK", "..\..\..\GitHub\csgogameobserversdk\CSGOGameObserverSDK\CSGOGameObserverSDK.csproj", "{633A70E0-B27D-4821-AF2B-3E9018EC83F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631768BA-75ED-4908-9A26-EE491E59BD75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631768BA-75ED-4908-9A26-EE491E59BD75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631768BA-75ED-4908-9A26-EE491E59BD75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631768BA-75ED-4908-9A26-EE491E59BD75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633A70E0-B27D-4821-AF2B-3E9018EC83F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633A70E0-B27D-4821-AF2B-3E9018EC83F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633A70E0-B27D-4821-AF2B-3E9018EC83F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633A70E0-B27D-4821-AF2B-3E9018EC83F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
